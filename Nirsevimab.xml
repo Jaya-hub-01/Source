@@ -1,0 +1,605 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<response>
+<row>
+<row _id="row-ympa.37ea_wpxu" _uuid="00000000-0000-0000-23AF-F232C5F52B17" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-ympa.37ea_wpxu">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>21.7213</estimate>
+<confidence_interval>16.1 - 27.4</confidence_interval>
+<sample_size>547</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>12/31/2023-01/27/2024</timeframe>
+</row>
+<row _id="row-uch2.2vew.nuu7" _uuid="00000000-0000-0000-D6AF-E98D3FEF27C0" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-uch2.2vew.nuu7">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>38.208</estimate>
+<confidence_interval>30.0 - 46.5</confidence_interval>
+<sample_size>390</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>12/31/2023-01/27/2024</timeframe>
+</row>
+<row _id="row-q4iy~e6b3-nkaw" _uuid="00000000-0000-0000-DE2D-A16C7CD343B8" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-q4iy~e6b3-nkaw">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>55.963</estimate>
+<confidence_interval>47.4 - 64.5</confidence_interval>
+<sample_size>390</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>12/31/2023-01/27/2024</timeframe>
+</row>
+<row _id="row-stft_4c9a-a83f" _uuid="00000000-0000-0000-B145-F28DD746D6E4" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-stft_4c9a-a83f">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>5.8291</estimate>
+<confidence_interval>3.5 - 8.2</confidence_interval>
+<sample_size>390</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>12/31/2023-01/27/2024</timeframe>
+</row>
+<row _id="row-g8pb.bjfn_vsi7" _uuid="00000000-0000-0000-935B-D148ED3A1812" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-g8pb.bjfn_vsi7">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>44.4492</estimate>
+<confidence_interval>34.9 - 54.0</confidence_interval>
+<sample_size>439</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>12/31/2023-01/27/2024</timeframe>
+</row>
+<row _id="row-6t2w.9kn2~miwy" _uuid="00000000-0000-0000-DCD9-44D0B3382B23" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-6t2w.9kn2~miwy">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Baby got nirsevimab</dsss_indicator_category>
+<estimate>42.9862</estimate>
+<confidence_interval>33.9 - 52.1</confidence_interval>
+<sample_size>484</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>01/28/2024-02/24/2024</timeframe>
+</row>
+<row _id="row-a97u-vvg8~qdfq" _uuid="00000000-0000-0000-532E-4F1C5AFB9182" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-a97u-vvg8~qdfq">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>44.8806</estimate>
+<confidence_interval>35.7 - 54.1</confidence_interval>
+<sample_size>439</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>12/31/2023-01/27/2024</timeframe>
+</row>
+<row _id="row-u5fu~tbpu-4yde" _uuid="00000000-0000-0000-B0B9-65E181FBD0B5" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-u5fu~tbpu-4yde">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>10.6702</estimate>
+<confidence_interval>4.6 - 16.8</confidence_interval>
+<sample_size>439</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>12/31/2023-01/27/2024</timeframe>
+</row>
+<row _id="row-w4n2_u6nb.8f2j" _uuid="00000000-0000-0000-E3CB-1C26BD41D407" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-w4n2_u6nb.8f2j">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>16.6958</estimate>
+<confidence_interval>11.4 - 22.0</confidence_interval>
+<sample_size>484</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>01/28/2024-02/24/2024</timeframe>
+</row>
+<row _id="row-xv6x-ydjs-edqa" _uuid="00000000-0000-0000-AD52-C01E3FE1537D" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-xv6x-ydjs-edqa">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>30.0383</estimate>
+<confidence_interval>22.3 - 37.8</confidence_interval>
+<sample_size>484</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>01/28/2024-02/24/2024</timeframe>
+</row>
+<row _id="row-7i9z_gbut_jmi6" _uuid="00000000-0000-0000-1E4D-693F6F99B61F" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-7i9z_gbut_jmi6">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>10.2797</estimate>
+<confidence_interval>7.4 - 13.2</confidence_interval>
+<sample_size>484</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>01/28/2024-02/24/2024</timeframe>
+</row>
+<row _id="row-dw8g.7jzv~5bfk" _uuid="00000000-0000-0000-23AE-2F111A45B942" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-dw8g.7jzv~5bfk">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>38.7707</estimate>
+<confidence_interval>30.0 - 47.6</confidence_interval>
+<sample_size>312</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>01/28/2024-02/24/2024</timeframe>
+</row>
+<row _id="row-emjm-uhez-zx9p" _uuid="00000000-0000-0000-F673-CAFD201BCAF1" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-emjm-uhez-zx9p">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>54.0832</estimate>
+<confidence_interval>45.0 - 63.2</confidence_interval>
+<sample_size>312</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>01/28/2024-02/24/2024</timeframe>
+</row>
+<row _id="row-ynpq~3eve.9uwp" _uuid="00000000-0000-0000-3A7A-4598D61F7C9A" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-ynpq~3eve.9uwp">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>7.1461</estimate>
+<confidence_interval>4.0 - 10.3</confidence_interval>
+<sample_size>312</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>01/28/2024-02/24/2024</timeframe>
+</row>
+<row _id="row-r65m.uxgk~suxa" _uuid="00000000-0000-0000-41D7-D2CC84D9859B" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-r65m.uxgk~suxa">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>43.6926</estimate>
+<confidence_interval>34.6 - 52.8</confidence_interval>
+<sample_size>365</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>01/28/2024-02/24/2024</timeframe>
+</row>
+<row _id="row-xa7j_t64f-ig3k" _uuid="00000000-0000-0000-A04B-E6F56A5FBDD6" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-xa7j_t64f-ig3k">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Baby got nirsevimab</dsss_indicator_category>
+<estimate>41.3462</estimate>
+<confidence_interval>33.9 - 48.8</confidence_interval>
+<sample_size>588</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>02/25/2024-03/31/2024</timeframe>
+</row>
+<row _id="row-6m42_hzfz.ddhv" _uuid="00000000-0000-0000-0B82-61599B0B3E39" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-6m42_hzfz.ddhv">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>40.3503</estimate>
+<confidence_interval>30.7 - 50.0</confidence_interval>
+<sample_size>365</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>01/28/2024-02/24/2024</timeframe>
+</row>
+<row _id="row-8jkz_6ka6_i3fa" _uuid="00000000-0000-0000-A450-9648CE8B7A63" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-8jkz_6ka6_i3fa">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>15.9571</estimate>
+<confidence_interval>6.3 - 25.6</confidence_interval>
+<sample_size>365</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>01/28/2024-02/24/2024</timeframe>
+</row>
+<row _id="row-2xai_6dwv.8pk4" _uuid="00000000-0000-0000-253E-D2774B0DBB19" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-2xai_6dwv.8pk4">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Baby got nirsevimab</dsss_indicator_category>
+<estimate>13.5161</estimate>
+<confidence_interval>8.1 - 18.9</confidence_interval>
+<sample_size>596</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>09/24/2023-10/28/2023</timeframe>
+</row>
+<row _id="row-p6qj.npyn.5wt2" _uuid="00000000-0000-0000-8A85-532EEEA09036" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-p6qj.npyn.5wt2">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Baby got nirsevimab</dsss_indicator_category>
+<estimate>20.6048</estimate>
+<confidence_interval>15.2 - 26.0</confidence_interval>
+<sample_size>540</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>10/29/2023-11/25/2023</timeframe>
+</row>
+<row _id="row-e5fd-8ucp-ibph" _uuid="00000000-0000-0000-4708-6F9A2F2D1CAD" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-e5fd-8ucp-ibph">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>26.894</estimate>
+<confidence_interval>21.3 - 32.5</confidence_interval>
+<sample_size>540</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>10/29/2023-11/25/2023</timeframe>
+</row>
+<row _id="row-ncy6.y43b~shj7" _uuid="00000000-0000-0000-524D-D9EBE4B74831" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-ncy6.y43b~shj7">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>39.9607</estimate>
+<confidence_interval>31.3 - 48.6</confidence_interval>
+<sample_size>596</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>09/24/2023-10/28/2023</timeframe>
+</row>
+<row _id="row-hdey-yse3.amm9" _uuid="00000000-0000-0000-8DDD-777DCDB9DBDA" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-hdey-yse3.amm9">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>35.6685</estimate>
+<confidence_interval>29.1 - 42.2</confidence_interval>
+<sample_size>596</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>09/24/2023-10/28/2023</timeframe>
+</row>
+<row _id="row-mbch-2jik.4u3h" _uuid="00000000-0000-0000-9BFE-1AA3D45B75F7" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-mbch-2jik.4u3h">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>47.3455</estimate>
+<confidence_interval>40.5 - 54.2</confidence_interval>
+<sample_size>540</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>10/29/2023-11/25/2023</timeframe>
+</row>
+<row _id="row-jd4c~f3ya.5w3u" _uuid="00000000-0000-0000-E642-7CEB1406FB4E" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-jd4c~f3ya.5w3u">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>5.1558</estimate>
+<confidence_interval>2.8 - 7.5</confidence_interval>
+<sample_size>540</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>10/29/2023-11/25/2023</timeframe>
+</row>
+<row _id="row-5pbk-9ykd-awhu" _uuid="00000000-0000-0000-9A15-C9672F0D0F07" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-5pbk-9ykd-awhu">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>10.8547</estimate>
+<confidence_interval>4.4 - 17.4</confidence_interval>
+<sample_size>596</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>09/24/2023-10/28/2023</timeframe>
+</row>
+<row _id="row-jk72_bj65~hsey" _uuid="00000000-0000-0000-2C29-28D405E41DE4" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-jk72_bj65~hsey">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>30.6949</estimate>
+<confidence_interval>21.4 - 40.0</confidence_interval>
+<sample_size>336</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>10/29/2023-11/25/2023</timeframe>
+</row>
+<row _id="row-zbwx.g23a.n9n7" _uuid="00000000-0000-0000-EF79-C57EE1A0EC52" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-zbwx.g23a.n9n7">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>37.6819</estimate>
+<confidence_interval>27.9 - 47.4</confidence_interval>
+<sample_size>439</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>09/24/2023-10/28/2023</timeframe>
+</row>
+<row _id="row-3qu9-ae4i_bc4g" _uuid="00000000-0000-0000-43B0-9BE8DF7DEF39" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-3qu9-ae4i_bc4g">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>52.1829</estimate>
+<confidence_interval>41.3 - 63.0</confidence_interval>
+<sample_size>336</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>10/29/2023-11/25/2023</timeframe>
+</row>
+<row _id="row-6gkv_66i7-yqzn" _uuid="00000000-0000-0000-BB6C-AC592467B764" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-6gkv_66i7-yqzn">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>53.9793</estimate>
+<confidence_interval>43.9 - 64.1</confidence_interval>
+<sample_size>439</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>09/24/2023-10/28/2023</timeframe>
+</row>
+<row _id="row-xmsv-6ex9-cpvu" _uuid="00000000-0000-0000-2DC4-3C8F1E3F3246" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-xmsv-6ex9-cpvu">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>8.3387</estimate>
+<confidence_interval>3.0 - 13.7</confidence_interval>
+<sample_size>439</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>09/24/2023-10/28/2023</timeframe>
+</row>
+<row _id="row-66s4.jfhq.cg8p" _uuid="00000000-0000-0000-992A-C1DA9674C51F" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-66s4.jfhq.cg8p">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>17.1222</estimate>
+<confidence_interval>8.8 - 25.5</confidence_interval>
+<sample_size>336</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>10/29/2023-11/25/2023</timeframe>
+</row>
+<row _id="row-tq6f.fhim~ptij" _uuid="00000000-0000-0000-27A1-D5F9D4A74864" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-tq6f.fhim~ptij">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>39.9503</estimate>
+<confidence_interval>30.3 - 49.6</confidence_interval>
+<sample_size>566</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>09/24/2023-10/28/2023</timeframe>
+</row>
+<row _id="row-48rz.nj2b.an8x" _uuid="00000000-0000-0000-0EC0-CDDB72CC42A1" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-48rz.nj2b.an8x">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>48.8001</estimate>
+<confidence_interval>39.1 - 58.5</confidence_interval>
+<sample_size>413</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>10/29/2023-11/25/2023</timeframe>
+</row>
+<row _id="row-46ti~f4cr.mdhn" _uuid="00000000-0000-0000-9FAE-7AA2F9E2C89D" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-46ti~f4cr.mdhn">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>45.3181</estimate>
+<confidence_interval>35.6 - 55.0</confidence_interval>
+<sample_size>413</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>10/29/2023-11/25/2023</timeframe>
+</row>
+<row _id="row-wsbr.7s32-zdh7" _uuid="00000000-0000-0000-F7FA-0E0DAAA97830" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-wsbr.7s32-zdh7">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>47.2915</estimate>
+<confidence_interval>37.9 - 56.7</confidence_interval>
+<sample_size>566</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>09/24/2023-10/28/2023</timeframe>
+</row>
+<row _id="row-q23u.9kr7.u7hi" _uuid="00000000-0000-0000-A10D-5CC4B7436051" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-q23u.9kr7.u7hi">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>5.8817</estimate>
+<confidence_interval>2.6 - 9.2</confidence_interval>
+<sample_size>413</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>10/29/2023-11/25/2023</timeframe>
+</row>
+<row _id="row-im2w-5ma2~irmq" _uuid="00000000-0000-0000-0FF2-773B89FEC65C" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-im2w-5ma2~irmq">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>12.7582</estimate>
+<confidence_interval>4.4 - 21.1</confidence_interval>
+<sample_size>566</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>09/24/2023-10/28/2023</timeframe>
+</row>
+<row _id="row-kp4r~wqun.zgzf" _uuid="00000000-0000-0000-9BDF-D40152661EEC" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-kp4r~wqun.zgzf">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>9.7946</estimate>
+<confidence_interval>3.5 - 16.1</confidence_interval>
+<sample_size>454</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>11/26/2023-12/30/2023</timeframe>
+</row>
+<row _id="row-3c5v-ivsv-6555" _uuid="00000000-0000-0000-4869-EF813FA92921" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-3c5v-ivsv-6555">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Baby got nirsevimab</dsss_indicator_category>
+<estimate>28.7093</estimate>
+<confidence_interval>20.3 - 37.1</confidence_interval>
+<sample_size>454</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>11/26/2023-12/30/2023</timeframe>
+</row>
+<row _id="row-gygt-cju8-9atu" _uuid="00000000-0000-0000-1180-196272965DB5" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-gygt-cju8-9atu">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>30.0634</estimate>
+<confidence_interval>22.0 - 38.1</confidence_interval>
+<sample_size>454</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>11/26/2023-12/30/2023</timeframe>
+</row>
+<row _id="row-g64a.bg3e.48vp" _uuid="00000000-0000-0000-451D-0D0F1C585449" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-g64a.bg3e.48vp">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>31.4328</estimate>
+<confidence_interval>22.1 - 40.8</confidence_interval>
+<sample_size>454</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>11/26/2023-12/30/2023</timeframe>
+</row>
+<row _id="row-wpyx_phve-5c3h" _uuid="00000000-0000-0000-8159-2CD55A0E0A01" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-wpyx_phve-5c3h">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>22.8011</estimate>
+<confidence_interval>14.9 - 30.7</confidence_interval>
+<sample_size>588</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>02/25/2024-03/31/2024</timeframe>
+</row>
+<row _id="row-cj9g~ip97_5b8x" _uuid="00000000-0000-0000-952F-14F3D44B745D" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-cj9g~ip97_5b8x">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>24.3022</estimate>
+<confidence_interval>18.9 - 29.7</confidence_interval>
+<sample_size>588</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>02/25/2024-03/31/2024</timeframe>
+</row>
+<row _id="row-auxh~6j6y.jn72" _uuid="00000000-0000-0000-E4C9-F16DD77C38FA" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-auxh~6j6y.jn72">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>11.5505</estimate>
+<confidence_interval>6.5 - 16.6</confidence_interval>
+<sample_size>588</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>02/25/2024-03/31/2024</timeframe>
+</row>
+<row _id="row-h58j.na2h_eess" _uuid="00000000-0000-0000-89D5-D4C426E951AF" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-h58j.na2h_eess">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>46.256</estimate>
+<confidence_interval>36.9 - 55.6</confidence_interval>
+<sample_size>436</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>02/25/2024-03/31/2024</timeframe>
+</row>
+<row _id="row-ix63_mwvt-h6nc" _uuid="00000000-0000-0000-A399-3BD0BF7665B5" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-ix63_mwvt-h6nc">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>47.7846</estimate>
+<confidence_interval>38.3 - 57.2</confidence_interval>
+<sample_size>436</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>02/25/2024-03/31/2024</timeframe>
+</row>
+<row _id="row-uzar.uxjv.ya46" _uuid="00000000-0000-0000-256B-D3B150579A48" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-uzar.uxjv.ya46">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>5.9594</estimate>
+<confidence_interval>3.4 - 8.5</confidence_interval>
+<sample_size>436</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>02/25/2024-03/31/2024</timeframe>
+</row>
+<row _id="row-ik45-349h~c83s" _uuid="00000000-0000-0000-7C6C-A3360EC196C6" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-ik45-349h~c83s">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>35.838</estimate>
+<confidence_interval>28.4 - 43.3</confidence_interval>
+<sample_size>472</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>02/25/2024-03/31/2024</timeframe>
+</row>
+<row _id="row-484f.4w49~vy5p" _uuid="00000000-0000-0000-0FAE-635F02800C53" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-484f.4w49~vy5p">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>48.3055</estimate>
+<confidence_interval>36.6 - 60.0</confidence_interval>
+<sample_size>472</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>02/25/2024-03/31/2024</timeframe>
+</row>
+<row _id="row-gcrz-wrja.e7y6" _uuid="00000000-0000-0000-282A-37FD8E9D3F3A" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-gcrz-wrja.e7y6">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>15.8565</estimate>
+<confidence_interval>4.7 - 27.1</confidence_interval>
+<sample_size>472</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>02/25/2024-03/31/2024</timeframe>
+</row>
+<row _id="row-5zgd_eqgh_g8xs" _uuid="00000000-0000-0000-BCF9-68D9B5121A95" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-5zgd_eqgh_g8xs">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>45.7544</estimate>
+<confidence_interval>34.4 - 57.1</confidence_interval>
+<sample_size>277</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>11/26/2023-12/30/2023</timeframe>
+</row>
+<row _id="row-j5xw~2h7y~9uwu" _uuid="00000000-0000-0000-D992-C4711DB69D50" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-j5xw~2h7y~9uwu">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>44.1737</estimate>
+<confidence_interval>32.4 - 55.9</confidence_interval>
+<sample_size>277</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>11/26/2023-12/30/2023</timeframe>
+</row>
+<row _id="row-9hx6-e4nu~zjus" _uuid="00000000-0000-0000-B1AB-F60AAF51CC99" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-9hx6-e4nu~zjus">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Trying to get pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>10.0719</estimate>
+<confidence_interval>1.9 - 18.3</confidence_interval>
+<sample_size>277</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>11/26/2023-12/30/2023</timeframe>
+</row>
+<row _id="row-az6k-ni6x-jx3z" _uuid="00000000-0000-0000-A364-2C5EAE6A8E52" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-az6k-ni6x-jx3z">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>6.2682</estimate>
+<confidence_interval>0.0 - 14.4</confidence_interval>
+<sample_size>262</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>11/26/2023-12/30/2023</timeframe>
+</row>
+<row _id="row-r3zg~bavn~r7w8" _uuid="00000000-0000-0000-24C8-20B156C76FE2" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-r3zg~bavn~r7w8">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Baby got nirsevimab</dsss_indicator_category>
+<estimate>40.4751</estimate>
+<confidence_interval>33.0 - 47.9</confidence_interval>
+<sample_size>547</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>12/31/2023-01/27/2024</timeframe>
+</row>
+<row _id="row-j2nx-kefg-8wkr" _uuid="00000000-0000-0000-B9A4-5AEF6BADD347" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-j2nx-kefg-8wkr">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Definitely will get nirsevimab for baby</dsss_indicator_category>
+<estimate>33.8799</estimate>
+<confidence_interval>22.8 - 45.0</confidence_interval>
+<sample_size>262</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>11/26/2023-12/30/2023</timeframe>
+</row>
+<row _id="row-pq64.ntp6-stiz" _uuid="00000000-0000-0000-7679-74B6E28A6410" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-pq64.ntp6-stiz">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Currently pregnant</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>59.8519</estimate>
+<confidence_interval>46.5 - 73.2</confidence_interval>
+<sample_size>262</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>11/26/2023-12/30/2023</timeframe>
+</row>
+<row _id="row-cpag-22gi.zefr" _uuid="00000000-0000-0000-8D30-85C7460B00A6" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-cpag-22gi.zefr">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Probably will get nirsevimab for baby or unsure</dsss_indicator_category>
+<estimate>31.5221</estimate>
+<confidence_interval>25.0 - 38.1</confidence_interval>
+<sample_size>547</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>12/31/2023-01/27/2024</timeframe>
+</row>
+<row _id="row-4szj_95iu-wae5" _uuid="00000000-0000-0000-2849-3AECEEB318C6" _position="0" _address="https://data.cdc.gov/resource/_8ame-63pc/row-4szj_95iu-wae5">
+<geographic_label>National</geographic_label>
+<dsss_indicator_variable>Those with a baby <8 months</dsss_indicator_variable>
+<dsss_indicator_category>Probably or definitely will not get nirsevimab for baby</dsss_indicator_category>
+<estimate>6.2815</estimate>
+<confidence_interval>3.5 - 9.1</confidence_interval>
+<sample_size>547</sample_size>
+<suppressed_flag>0</suppressed_flag>
+<timeframe>12/31/2023-01/27/2024</timeframe>
+</row>
+</row>
+</response>
